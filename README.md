@@ -28,8 +28,3 @@ This ensures:
 - No manual deployment  
 - Always updated website  
 - Smooth and automated workflow  
-
----
-
-## 📁 Project Structure
-
